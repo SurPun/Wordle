@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+  <title>Wordle</title>
+</head>
+
+<body>
+
+<!--  Modual  -->
+<section class="container">
+  <div class="popup">
+    <button id="close">&times;</button>
+    <h1 class="text-center">INSTRUCTIONS</h1>
+      <p>
+        Guess The Word in <b>6</b> tries.<br>
+        Each guess must be a vaild <strong>5 letter word.</strong> Hit the enter button to submit.
+      </p>
+
+      <p>
+        After each guess, the color of the tiles will change to show how close your guess was to the word.
+      </p>
+
+<!-- Examples -->
+
+    <div class="stack-small text-center">
+        <h2>Examples</h2>
+  
+        <img class="responsive" src="img/correct.PNG" width="200px"><br>
+        The letter <b>W</b> is in the word and in the correct spot.<br>
+  
+        <img class="responsive" src="img/included.PNG" width="200px"><br>
+        The letter <b>I</b> is in the word but in the wrong spot.<br>
+  
+        <img class="responsive" src="img/missing.PNG" width="200px"><br>
+        The letter <b>U</b> is not in the word in any spot.<br>
+    </div> 
+  </div>
+</section>
+
+  <main>
+    <h1>Wordle</h1>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+  
+</html>
