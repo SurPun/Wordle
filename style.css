@@ -1,52 +1,53 @@
-html, body {
-    height: 100%;
-    width: 100%;
-  }
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
 
-  /* Genral Codes */
-  .text-center { 
-      text-align: center;
-  }
+/* Genral Codes */
+.text-center {
+  text-align: center;
+}
 
-  .stack-small > * + * {
-      margin-top: 0.5rem;
-      margin-bottom: 0.5rem;
-  }
+.stack-small > * + * {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
 
-  .width-sm {
-    max-width: 33vw;
-  }
+.width-sm {
+  max-width: 33vw;
+}
 
-  .responsive {
-      width: 100%;
-      height: auto;
-  }
+.responsive {
+  width: 100%;
+  height: auto;
+}
 
-  /* GC End */
-  .container {
-    position: relative;
-  }
-    
-  .popup {
-    position: absolute;
-    max-width: 70vh;
-    left: 20%;
-    right: 20%;
-    margin: 0 auto;
-    border: 2px solid;
-    padding: 2rem;
-    border-radius: 50px;
-    background-color: rgb(0, 97, 102);
-    color: white;
-    visibility: visible;
-  }
- 
-  .popup button {
-    display: block;
-    margin: 0 0 20px auto;
-    background-color: transparent;
-    font-size: 30px;
-    background-color: rgb(255, 255, 255);
-    border-radius: 10px;
-    cursor: pointer;
-  }
+/* GC End */
+.container {
+  position: relative;
+}
+
+.popup {
+  position: absolute;
+  max-width: 70vh;
+  left: 20%;
+  right: 20%;
+  margin: 0 auto;
+  border: 2px solid;
+  padding: 2rem;
+  border-radius: 50px;
+  background-color: rgb(0, 97, 102);
+  color: white;
+  visibility: visible;
+}
+
+.popup button {
+  display: block;
+  margin: 0 0 20px auto;
+  background-color: transparent;
+  font-size: 30px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  cursor: pointer;
+}
