@@ -12,11 +12,11 @@ Live Page [Here]()
 
 ## User Stories
 
-- [ ] As a user i would like to see instructions on how to play the game
-- [ ] As a user i would like to type and guess a word
-- [ ] As a user i would like to see a visual feedback on what letters are included, not included and in the correct place of my guessed word
-- [ ] As a user i would like to be able to use the on-screen keyboard instead of typing it
-- [ ] As a user i would like to see if my guessed word is correct.
+- [ ] As a user I would like to see instructions on how to play the game
+- [x] As a user I would like to type and guess a word
+- [ ] As a user I would like to see a visual feedback on what letters are included, not included and in the correct place of my guessed word
+- [ ] As a user I would like to be able to use the on-screen keyboard instead of typing it
+- [ ] As a user I would like to see if my guessed word is correct.
 
 ## Stretch Goal
 
