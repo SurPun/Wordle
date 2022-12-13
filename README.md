@@ -22,7 +22,7 @@ Make sure you have Git and Node installed.
 - [ ] As a user I would like to see instructions on how to play the game
 - [x] As a user I would like to type and guess a word
 - [x] As a user I would like to see a visual feedback on what letters are included, not included and in the correct place of my guessed word
-- [x] As a user I would like to be able to use the on-screen keyboard instead of typing it
+- [ ] As a user I would like to be able to use the on-screen keyboard instead of typing it
 - [x] As a user I would like to see if my guessed word is correct.
 
 ## Stretch Goal
