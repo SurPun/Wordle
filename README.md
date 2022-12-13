@@ -8,7 +8,6 @@ Make sure you have Git and Node installed.
 
 1. Clone this repository to your machine, cd into it.
 2. Run `npm install` to install all the dependencies.
-3. Run `npx json-server ./data/db.json --port 3001` to run the words json server
 4. Run `npm run start` to start the local dev server.
 
 ## Acceptance Criteria
