@@ -1,6 +1,6 @@
 # Wordle
 
-Build a Wordle word game. [Ref](https://www.nytimes.com/games/wordle/index.html)
+Build a Wordle word game, Created using React. [Ref](https://www.nytimes.com/games/wordle/index.html)
 
 ## Set Up
 
