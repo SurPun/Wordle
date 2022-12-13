@@ -1,6 +1,8 @@
 # Wordle
 
-Build a Wordle word game, Created using React. [Ref](https://www.nytimes.com/games/wordle/index.html)
+Build a Wordle word game, Created using [React](https://reactjs.org/).<br>
+
+Check Out The Original Wordle Game here: [Original Wordle Game](https://www.nytimes.com/games/wordle/index.html)
 
 ## Set Up
 
