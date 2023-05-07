@@ -1,4 +1,4 @@
-# Wordle
+# Founders & Coders Employer - Limio Challenge (Wordle)
 
 Build the Wordle word game, Created using [React](https://reactjs.org/) & Hosted in [Vercel](https://www.google.com/aclk?sa=l&ai=DChcSEwjMhfKP0Pb7AhWYs-0KHXVeAy0YABAAGgJkZw&sig=AOD64_2Lk8xsxU-B7Z4mJRQFZ3fVwNyzXA&q&adurl&ved=2ahUKEwj3yeyP0Pb7AhURTMAKHe-pByoQ0Qx6BAgHEAE).<br>
 
